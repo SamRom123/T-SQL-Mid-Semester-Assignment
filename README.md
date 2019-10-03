@@ -1,5 +1,4 @@
 # T-SQL-Mid-Semester-Assignment
-(View as "raw" or " ")
 This is an assignment from CS3550 "Advanced Database Design" that I am currently enrolled in which runs on the free to access northwind
 database
 
